@@ -1,4 +1,4 @@
-# Eartquake Detection with ESP32 and Detectron2
+# Earthquake Detection with ESP32 and Detectron2
 
 ## Project Overview
 This project focuses on developing an automated system for detecting earthquake damage in structures using computer vision. Leveraging Facebook AI's Detectron2 library, a state-of-the-art object detection framework, the system is trained to identify various types of damage from aerial imagery or ground-level photos. The trained model is then deployed as a cloud-hosted API endpoint, enabling real-time damage assessment by external devices like ESP32 microcontrollers.
